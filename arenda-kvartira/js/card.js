@@ -20,6 +20,9 @@ let data = (arr) => {
     dataSection.appendChild(Fragment)
 }
 
+
+
+
 //let Title = document.getElementById("companent__h2")
 //let Disc = document.getElementById("companent__p")
 //let Price = document.getElementById("companent__mark")
